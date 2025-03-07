@@ -1,1 +1,3 @@
-"/Thumbs.db/" 
+"*.log" 
+"*.DS_Store" 
+"*.tmd" 
